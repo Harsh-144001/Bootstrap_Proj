@@ -1,0 +1,18 @@
+       .bgi {
+            background-image: url(./assets/bg.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        .row1 {
+            height: 700px;
+        }
+
+        .row2 {
+            background-position: center;
+        }
+
+        .fimg {
+            width: 200px;
+            height: 200px;
+        }
